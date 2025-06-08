@@ -1,5 +1,8 @@
 # I have done pizza store analysis - This is a real project on real dataset   
 
+<a href = "<a href = "https://github.com/Piyush-tikiya/Excel-Sales-Performance-Report/blob/main/AtliQ%20Hardware%20Business%20Hierarchy%20Model.pdf"> AtliQ Business Model </a>"> AtliQ Business Model </a>
+
+
 ✅ Situation
 •	 The business wanted to evaluate the performance of their pizza store operations.
 •	 Focus areas included understanding which categories and toppings were most popular.
