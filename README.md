@@ -1,4 +1,4 @@
-# I have done pizza store analysis - This is a real project  
+ pizza store analysis 
 
 <a href = "https://github.com/Piyush-tikiya/SQL-Project/blob/main/pizza%20stor%20pdf.pdf">  Pizza Store Sale & Customer Engagement Analysis </a>
 
